@@ -4,8 +4,6 @@
 #
 #    pip-compile
 #
---extra-index-url https://download.pytorch.org/whl/cu116
-
 absl-py==1.2.0
     # via tensorboard
 aiohttp==3.8.1

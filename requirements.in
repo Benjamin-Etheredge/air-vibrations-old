@@ -1,9 +1,13 @@
 torch
 torchvision
 torchaudio 
---extra-index-url https://download.pytorch.org/whl/cu116
+# --extra-index-url https://download.pytorch.org/whl/cu116
 
 pytorch-lightning
 transformers
 numpy
 gradio
+
+# punctuation
+deepmultilingualpunctuation
+sentencepiece

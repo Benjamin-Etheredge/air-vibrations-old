@@ -1,0 +1,9 @@
+.env
+flagged
+notebooks
+.git
+.gitignore
+.gitattributes
+.gitmodules
+.gitkeep
+.gitconfig
